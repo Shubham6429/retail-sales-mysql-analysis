@@ -198,3 +198,10 @@ CASE
 - Database was created manually (no CREATE DATABASE script included)
 - All queries are written for MySQL 8.0
 - This project focuses on SQL analysis only (no visualization layer
+
+## How To Use 
+
+- Import the dataset into MySQL
+- Create the table using the provided schema
+- Run the SQL queries in sequence
+- Modify or extend queries to explore further insights
