@@ -44,9 +44,14 @@ Quantity sold
 
 Price per unit
 
+Cost of goods sold (COGS)
 
-**Data Checking & Cleaning
--- total rows
+Total sale amount
+
+
+
+## Data Checking & Cleaning
+
 SELECT COUNT(*) FROM retail_sales;
 
 -- unique customers
@@ -56,6 +61,4 @@ SELECT COUNT(DISTINCT customer_id) FROM retail_sales;
 SELECT DISTINCT category FROM retail_sales;
 
 
-Cost of goods sold (COGS)
-
-Total sale amount
+ 
