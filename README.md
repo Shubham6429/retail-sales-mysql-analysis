@@ -16,3 +16,11 @@ The database was created manually in MySQL Workbench, and all queries were writt
 4.Answer business-driven questions related to sales, customers, and trends
 
 5.Strengthen practical SQL skills using MySQL 8.0
+
+## Tools Used
+
+MySQL 8.0
+
+MySQL Workbench
+
+SQL (CTEs, window functions, aggregations)
