@@ -49,6 +49,7 @@ Cost of goods sold (COGS)
 Total sale amount
 
 
+## Project Structure
 
 ### Data Checking & Cleaning
 
