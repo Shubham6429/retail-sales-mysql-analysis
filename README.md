@@ -4,3 +4,15 @@ This repository contains a SQL-based analysis of a retail sales dataset using My
 The project was done to practice writing real-world SQL queries focused on data cleaning, exploration, and business-style analysis.
 
 The database was created manually in MySQL Workbench, and all queries were written independently as part of hands-on SQL practice.
+
+# Project Objectives
+
+1.Understand the structure and distribution of retail sales data
+
+2.Perform data cleaning to ensure data quality
+
+3.Conduct exploratory data analysis (EDA) using SQL
+
+4.Answer business-driven questions related to sales, customers, and trends
+
+5.Strengthen practical SQL skills using MySQL 8.0
