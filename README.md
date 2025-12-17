@@ -5,7 +5,7 @@ The project was done to practice writing real-world SQL queries focused on data 
 
 The database was created manually in MySQL Workbench, and all queries were written independently as part of hands-on SQL practice.
 
-# Project Objectives
+## Project Objectives
 
 1.Understand the structure and distribution of retail sales data
 
@@ -24,3 +24,26 @@ MySQL 8.0
 MySQL Workbench
 
 SQL (CTEs, window functions, aggregations)
+
+
+## Dataset Overview
+
+The dataset contains retail transaction-level data with the following information:
+
+Transaction ID
+
+Date and time of sale
+
+Customer ID
+
+Gender and age
+
+Product category
+
+Quantity sold
+
+Price per unit
+
+Cost of goods sold (COGS)
+
+Total sale amount
