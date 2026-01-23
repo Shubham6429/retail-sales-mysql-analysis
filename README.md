@@ -1,5 +1,8 @@
 # Retail Sales SQL Analysis
 
+![Retail Sales Banner](retailimage.png)
+
+
 This repository contains a SQL-based analysis of a retail sales dataset using MySQL 8.0.
 The project was done to practice writing real-world SQL queries focused on data cleaning, exploration, and business-style analysis.
 
